@@ -2,34 +2,24 @@
 
 #### About Me: 
 
-I am an 9+ years experienced data analytics professional possessing proven track record of successfully applying machine learning techniques, building insightful dashboards and visualizations to solve key business problems. Experience in handling multiple projects while interacting with various project managers and stake holders. Leading projects in a matrix environment end to end
-
-
-➢ I'm B Tech Computer Science Engineering Graduate passed out in 2019. I'm having an extensive experience in working with Technologies like Data Science, Machine Learning and additionally i have my web developement skills.
+➢ I am certified PGP in Artificial Intelligence and Machine Learning professional from National Institute of Technology, Warangal. 
+➢ I'm a B.tech graduate with experience in technologies like Machine Learning using Python, SQL, Tableau, ALteryx and Power BI 
 ➢ Data Science practitioner with a Hands-on Experience in Python, Flask, Streamlit, SQL
-➢ Experienced in developing Data Science web applications with Machine Learning using Python. Machine Learning Techniques includes Linear Regression, Logistic Regression,Random Forest and some Advanced Machine Learning Algorithms.
-➢ Skilled in libraries such as Sklearn, Scipy, Numpy, Pandas, Matplotlib, Plotly, Seaborn, Imblearn, Tableau for Data Visualization and worked with SQL SERVER Database
-➢ Additional skills are HTML & CSS, Bootstrap and basic Data Structures and algorithms.
-➢ Also Worked Independently for Deployment of Models using Heroku Cloud Platform.
+➢ Skilled in libraries such as Sklearn, Numpy, Pandas, Matplotlib, Seaborn, etc
+➢ Deployed Models using Heroku Cloud Platform.
 ➢ Expertise in manipulating and analyzing complex, high-volume, high-dimensionality data.
-➢ Proven ability and Experience of implementing python with OOPs concepts.
 ➢ Possessing an ability to be a good data storyteller.
-➢ Team Player with good communication skills and self-motivated attitude.
-➢ Contributor to the Data Science Community.
-
 
 Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
 
 MY Skill Set 🔥
 
-𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 : Data Analytics, Machine Learning, Backend Development
-𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 (𝒄𝒍𝒊𝒆𝒏𝒕 𝒔𝒊𝒅𝒆) : HTML, CSS, Bootstrap
-𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 (𝒔𝒆𝒓𝒗𝒆𝒓 𝒔𝒊𝒅𝒆) : Python, SQL Server, MySQL, Mongo DB
-𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 (𝑴𝒐𝒅𝒆𝒍 / 𝑻𝒆𝒄𝒉𝒏𝒊𝒒𝒖𝒆) : OOP’s, ORM (SqlAlchemy)
+𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 : Data Analytics, Machine Learning
+𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 (𝒄𝒍𝒊𝒆𝒏𝒕 𝒔𝒊𝒅𝒆) : HTML, CSS basics
+𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 (𝒔𝒆𝒓𝒗𝒆𝒓 𝒔𝒊𝒅𝒆) : Python, Teradata, MySQL
 𝑽𝒊𝒔𝒖𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝑳𝒊𝒃𝒓𝒂𝒓𝒊𝒆𝒔 : Matplotlib, Seaborn, Plotly
-𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒂𝒍 𝑻𝒐𝒐𝒍𝒔 : MS Excel, Tableau
-𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 / 𝑰𝑫𝑬 : Jupyter Notebook, PyCharm IDE, Spyder IDE, Sublime Text, My SQL Server, MONGO DB Compass
-𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕 𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔 : FFlask, Streamlit, Django
-Cloud Platforms : Amazon Web Services (Lambda, RDS, S3 bucket), Heroku Cloud Platform
-𝑫𝒆𝒗𝑶𝒑𝒔 : Version Control system : GIT(GitHub, Gitlab, Bitbucket), Docker Deployment
-𝑬𝒙𝒑𝒐𝒔𝒖𝒓𝒆 : R, RStudio, PyCharm IDE, Data Structures and Algorithms, javascript, nodejs
+𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒂𝒍 𝑻𝒐𝒐𝒍𝒔 : MS Excel, VBA, Tableau and Power BI
+𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 / 𝑰𝑫𝑬 : Jupyter Notebook, PyCharm IDE, Spyder IDE, My SQL Server, colab
+𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕 𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔 : Flask (Basics)
+Cloud Platforms : Heroku Cloud Platform
+𝑬𝒙𝒑𝒐𝒔𝒖𝒓𝒆 : R, RStudio, PyCharm IDE, Alteryx
