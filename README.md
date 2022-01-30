@@ -12,7 +12,7 @@
 
 Currently, I am looking for a full-time role in Data Science, Machine Learning or related field. <br>
 
-#### MY Skill Set 🔥 <br>
+#### MY Skill Set: <br>
 
 **Technology :** Data Analytics, Machine Learning <br>
 **Programming (Client side) :** HTML, CSS basics <br>
