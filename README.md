@@ -25,7 +25,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 **Exposure :** R, RStudio, PyCharm IDE, Alteryx
 
 Reach out to me 
-
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rohit-kotha-06027355" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rohit-kotha-06027355?trk=profile-badge">Rohit kotha</a></div>
