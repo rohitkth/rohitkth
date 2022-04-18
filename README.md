@@ -2,7 +2,7 @@
 
 #### About Me: 
 
-➢ I am certified PGP in Artificial Intelligence and Machine Learning professional from National Institute of Technology, Warangal. <br>
+➢ I am a PGP certified individual in Artificial Intelligence and Machine Learning professional from National Institute of Technology, Warangal. <br>
 ➢ I'm a B.tech graduate with experience in technologies like Machine Learning using Python, SQL, Tableau, ALteryx and Power BI <br>
 ➢ Data Science practitioner with a Hands-on Experience in Python, Flask, Streamlit, SQL <br>
 ➢ Skilled in libraries such as Sklearn, Numpy, Pandas, Matplotlib, Seaborn, etc <br>
