@@ -10,16 +10,14 @@
 ➢ Expertise in manipulating and analyzing complex, high-volume, high-dimensionality data. <br>
 ➢ Possessing an ability to be a good data storyteller. <br>
 
-Currently, I am looking for a full-time role in Data Science, Machine Learning or related field. <br>
-
 #### MY Skill Set: <br>
 
 **Technology :** Data Analytics, Machine Learning <br>
 **Programming (Client side) :** HTML, CSS basics <br>
 **Programming (Server side) :** Python, Teradata, MySQL <br>
 **Visualization Libraries :** Matplotlib, Seaborn, Plotly <br>
-**Analytical Tools :** MS Excel, VBA, Tableau and Power BI <br>
-**Software/IDE :** Jupyter Notebook, PyCharm IDE, Spyder IDE, My SQL Server, Google Colab
+**Tools :** MS Excel, VBA, MS Access, Tableau and Power BI <br>
+**Software/IDE :** Jupyter Notebook, PyCharm IDE, Spyder IDE, My SQL Server, Google Colab, PgAdmin
 **Deployment Frameworks :** Flask (Basics) <br>
 **Cloud Platforms :** Heroku Cloud Platform <br>
 **Exposure :** R, RStudio, PyCharm IDE, Alteryx
